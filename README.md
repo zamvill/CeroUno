@@ -1,4 +1,4 @@
 # CeroUno
-Repositorio para tareas y ejercicios de Python
-
-Modificacion 2
+Alumno:::::  Moises Alejandro Zamora VIllasana
+             alexzamora@gmail.com
+             
